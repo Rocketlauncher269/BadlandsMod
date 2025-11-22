@@ -1,3 +1,0 @@
-displayName = The Badlands
-author = UHHHH me
-version = 0.1
