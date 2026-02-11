@@ -18,6 +18,7 @@ namespace Badlands.Content.Generation
 {
     public class BadlandGeneration : ModSystem
     {
+        //TESTING TESTING
         //Generation values
         static int PlaceX;
         static int PlaceY;

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Badlands")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43d7203c8d5e784f13742f8034c962974155d63f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c3e4cf23b705473f8720889992bf2d1d82f96a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Badlands")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Badlands")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
